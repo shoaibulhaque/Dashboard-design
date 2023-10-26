@@ -154,7 +154,7 @@ aside {
   height: 100vh;
 }
 
-aside .top {Delivered
+aside .top {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -574,7 +574,7 @@ main .recent-orders a {
 
   aside  h2 {
     display: inline;
-    margin-left: 1.2rem;
+    margin-left: 1rem;
   }
 
   aside .sidebar h3 {
