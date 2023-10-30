@@ -304,6 +304,15 @@ main .insights small {
   display: block;
 }
 
+/* Logistics show all */
+
+main a {
+  text-align: center;
+  display: block;
+  margin: 1rem auto;
+  color: var(--color-primary);
+}
+
 /* RECENT ORDERS */
 
 main .recent-orders {
